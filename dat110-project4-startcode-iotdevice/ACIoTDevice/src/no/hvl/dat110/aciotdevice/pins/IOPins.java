@@ -68,7 +68,7 @@ public class IOPins {
 		int pinstate = pins[pin];
 
 		// reading currently sets to low - button press are remembered until read
-		pins[pin] = Constants.LOW; // FIXME
+		pins[pin] = Constants.LOW; //
 
 		return pinstate;
 	}

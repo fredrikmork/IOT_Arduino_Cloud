@@ -9,7 +9,7 @@ public class Constants {
 	public static int OUTPUT = 1;
 	
 	public Constants() {
-		// TODO Auto-generated constructor stub
+		// Auto-generated constructor stub
 	}
 
 }
