@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b244939-ce25-4dce-bd0b-7da4c7ce977d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/target.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/target.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ACCloudService/src/main/java/no/hvl/dat110/ac/rest/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACCloudService/src/main/java/no/hvl/dat110/ac/rest/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/ACIoTDevice/ACIoTDevice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/ACIoTDevice/ACIoTDevice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/ACIoTDevice/src/no/hvl/dat110/aciotdevice/controller/Serial.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/ACIoTDevice/src/no/hvl/dat110/aciotdevice/controller/Serial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/IOPins.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-iotdevice/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/IOPins.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,8 +21,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ACCloudService/src/main/java/no/hvl/dat110/ac/rest/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="80" column="46" selection-start-line="80" selection-start-column="46" selection-end-line="80" selection-end-column="46" />
+            <state relative-caret-position="355">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
             </state>
           </provider>
         </entry>
@@ -103,6 +95,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
@@ -147,12 +140,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556785645712</updated>
-      <workItem from="1556785647060" duration="3381000" />
+      <workItem from="1556785647060" duration="4017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3381000" />
+    <option name="totallyTimeSpent" value="4017000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -172,17 +165,17 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32867134" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -216,10 +209,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ACCloudService/src/test/java/no/hvl/dat110/rest/counters/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ACCloudService/src/main/java/no/hvl/dat110/ac/rest/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="80" column="46" selection-start-line="80" selection-start-column="46" selection-end-line="80" selection-end-column="46" />
+        <state relative-caret-position="355">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
         </state>
       </provider>
     </entry>

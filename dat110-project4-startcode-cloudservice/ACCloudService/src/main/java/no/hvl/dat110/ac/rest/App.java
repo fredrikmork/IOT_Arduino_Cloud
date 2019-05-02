@@ -73,12 +73,13 @@ public class App {
 		put("accessdevice/code", (req,res) -> {
 			Gson gson = new Gson();
 			AccessCode ac = gson.fromJson(req.body(), AccessCode.class);
-			ac.setAccesscode(accesscode.getAccesscode());
+			accesscode.setAccesscode(ac.getAccesscode());
 			return req.body();
 		});
 
 		get("/accessdevice/code", (request, response) -> {
-			return accesscode.getAccesscode();
+			Gson gson = new Gson();
+			return gson.toJson(accesscode);
 		});
 
 		delete("/accessdevice/log", (request, response) -> {

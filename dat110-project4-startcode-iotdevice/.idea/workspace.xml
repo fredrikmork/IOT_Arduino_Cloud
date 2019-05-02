@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7376258-332b-424d-a3f1-1dd9035e2874" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-cloudservice/.idea/libraries/target.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-cloudservice/.idea/libraries/target.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-cloudservice/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-cloudservice/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-cloudservice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-cloudservice/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dat110-project4-startcode-cloudservice/ACCloudService/src/main/java/no/hvl/dat110/ac/rest/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/../dat110-project4-startcode-cloudservice/ACCloudService/src/main/java/no/hvl/dat110/ac/rest/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACIoTDevice/ACIoTDevice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ACIoTDevice/ACIoTDevice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/controller/Serial.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/controller/Serial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/IOPins.java" beforeDir="false" afterPath="$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/IOPins.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,16 +19,34 @@
         <entry file="file://$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/controller/Serial.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+              <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/IOPins.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/controller/AccessController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/pins/IOPins.java">
+        <entry file="file://$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
+            <state relative-caret-position="60">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -91,6 +102,20 @@
               <item name="aciotdevice" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="dat110-project4-startcode-iotdevice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ACIoTDevice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aciotdevice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dat110-project4-startcode-iotdevice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ACIoTDevice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aciotdevice" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -117,6 +142,26 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat110.aciotdevice.main.Main" />
+      <module name="ACIoTDevice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat110.aciotdevice.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -128,12 +173,12 @@
       <option name="presentableId" value="Default" />
       <updated>1556785300667</updated>
       <workItem from="1556785302044" duration="248000" />
-      <workItem from="1556786223201" duration="1265000" />
+      <workItem from="1556786223201" duration="1338000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1513000" />
+    <option name="totallyTimeSpent" value="1586000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,6 +191,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="807" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -154,13 +200,14 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.32867134" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32867134" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -191,7 +238,7 @@
     <entry file="file://$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/controller/Serial.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="41" lean-forward="true" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
+          <caret line="5" column="41" selection-start-line="5" selection-start-column="41" selection-end-line="5" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -206,6 +253,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
           <caret line="70" column="37" selection-start-line="70" selection-start-column="37" selection-end-line="70" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/controller/AccessController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ACIoTDevice/src/no/hvl/dat110/aciotdevice/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
